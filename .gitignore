@@ -25,3 +25,12 @@ Thumbs.db
 *.safetensors
 *.pt
 *.pth
+
+# Exclude folders
+copy_solvers/
+OCR_Pictures/
+
+# Exclude screenshots / images
+problem_screenshot.png
+problem_screenshot_01.png
+*.png
