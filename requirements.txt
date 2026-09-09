@@ -1,0 +1,13 @@
+flask
+sympy
+pytesseract
+opencv-python
+numpy
+deep-translator
+--extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+llama-cpp-python
+requests
+pip-system-certs
+
+#pip install -r requirements.txt
+

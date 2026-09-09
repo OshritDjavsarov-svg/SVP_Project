@@ -1,0 +1,27 @@
+# Node / Angular
+node_modules/
+dist/
+.angular/
+
+# C# / .NET
+bin/
+obj/
+.vs/
+*.user
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# General
+.DS_Store
+Thumbs.db
+
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
