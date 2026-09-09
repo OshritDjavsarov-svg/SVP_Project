@@ -26,11 +26,11 @@ Thumbs.db
 *.pt
 *.pth
 
-# Exclude folders
-copy_solvers/
-OCR_Pictures/
 
-# Exclude screenshots / images
+copy_solvers/
+update_solvers/
+ט' סיווןsolvers/
+OCR_Pictures/
 problem_screenshot.png
 problem_screenshot_01.png
 *.png
